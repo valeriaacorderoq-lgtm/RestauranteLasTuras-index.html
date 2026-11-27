@@ -124,11 +124,11 @@ h3 {
     object-fit: cover;
     border-radius: 4px;
 }
-.centro {
+.manual-de-usuario-centro {
     text-aling: center;
     margin-top: 20px 0;
 }
-.boton-manual {
+.manual-de-usuario-boton {
     display: inline-block;
     background-color: #ef6c00;
     color: #ffffff;
@@ -137,7 +137,7 @@ h3 {
     font-weight: bold;
     border-radius: 5px;
 }
-.boton-manual:hover {
+.manual-de-usuario-boton:hover {
     backgroup-color: #d84315;
     }
 
