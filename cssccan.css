@@ -124,15 +124,22 @@ h3 {
     object-fit: cover;
     border-radius: 4px;
 }
- .manual-de-usuario a: hover {
-       display: inline-block;
-        background-color: #ef6c00;
-        color: #ffffff;
-        text-decoration: none;
-        padding: 10px 20px;
-        font-weight: bold;
-        border-radius: 5px
-        backgroup-color: #d84315;
+.manual-de-usuario {
+    text-aling: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.manual-de-usuario a {
+    display: inline-block;
+    background-color: #ef6c00;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px
+}
+.manual-de-usuario a: hover  {
+    backgroup-color: #d84315;
     }
 
 .caja-info {
