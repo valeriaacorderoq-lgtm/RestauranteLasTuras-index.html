@@ -126,12 +126,11 @@ h3 {
 }
 .manual-de-usuario {
     display: flex;
-    justify-content: center;
     text-aling: center;
     width: 100%;
     margin-top: 15px 0;
 }
-.boton-manual-de-usuario {
+.manual-de-usuario {
     display: inline-block;
     background-color: #ef6c00;
     color: #ffffff;
