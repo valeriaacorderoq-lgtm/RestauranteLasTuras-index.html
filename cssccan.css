@@ -235,4 +235,16 @@ footer {
     .plato img {
         height: 220px;
     }
+    .manual-de-usuario {
+       display: inline-block;
+        background-color: #ef6c00;
+        color: #ffffff;
+        text-decoration: none;
+        padding: 10px 20px;
+        font-weight: bold;
+        border-radius: 5px
+    }
+    .manual-de-usuario {
+        backgroup-color: #d84315;
+    }
 }
